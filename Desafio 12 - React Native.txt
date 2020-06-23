@@ -1,0 +1,26 @@
+# FoodDetails
+
+OK loadFood
+OK handleIncrementExtra
+OK handleDecrementExtra
+OK handleIncrementFood
+OK handleDecrementFood
+OK toggleFavorite
+OK cartTotal
+OK handleFinishOrder
+OK useLayoutEffect
+
+# Dashboard
+
+OK handleNavigate
+OK loadFoods
+OK loadCategories
+OK handleSelectCategory
+
+# Orders
+
+OK loadOrders
+
+# Favorites
+
+OK loadFavorites
